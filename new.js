@@ -7,5 +7,6 @@ function adding(){
 }
 
 function saving (){
+    count.innerText=0
     save.innerText+= hello + "-"
 }
